@@ -8,5 +8,3 @@ This project was inspired by the desire to have a Nest thermostat while being in
 - Push Solenoid (1144-1399-ND)
 - Breadboard
 - wires
-
-## Schematic
