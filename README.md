@@ -3,7 +3,7 @@ This project was inspired by the desire to have a Nest thermostat while being in
 
 ## Hardware
 ### Schematic
-![Alt text](/schematics/intro_sketch_bb.svg)
+![Alt text](hardware/schematics/intro_sketch_bb.svg)
 
 ### Materials
 - 2x Diode (1N4007)
