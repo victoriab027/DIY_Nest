@@ -3,14 +3,17 @@ This project was inspired by the desire to have a Nest thermostat while being in
 
 ## Hardware
 ### Schematic
-
+![Alt text](/schematics/intro_sketch_bb.svg)
 
 ### Materials
-- Diode (1N4007)
-- 2A Fuse (F3171CT-ND)
-- Arduino UNO WiFi Rev2
-- Push Solenoid (1144-1399-ND)
+- 2x Diode (1N4007)
+- Raspberry Pi Zero W
+- 2x Push Solenoid (1144-1399-ND)
+- 2x Transistor
+- 2x 220 Ohm Resistors
 - Breadboard
-- wires
+- Wires
+
+### Test
 
 ## Software
